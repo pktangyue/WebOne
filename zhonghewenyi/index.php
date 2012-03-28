@@ -146,9 +146,147 @@
 					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
 					<p class="mt5">下岱山建醮盛大庆</p>
 					<p class="mt5">朱晓峰</p>
-				</li></ul>
+				</li>
+			</ul>
 		</div>
-		<img class="nopadding" src="/img/blank.jpg" width="725" height="90"/>
+		<div class="section">
+			<img class="nopadding" src="/img/blank.jpg" width="725" height="90"/>
+		</div>
+		<div class="section section_p4">
+			<a class="section_more" href="#">更多>></a>
+			<h3 class="section_title">个人展室</h3>
+			<ul class="section_imgs clearfix">
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="100" height="118"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="100" height="118"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="100" height="118"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="100" height="118"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="100" height="118"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="100" height="118"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+			</ul>
+		</div>
+		<div class="section">
+			<a class="section_more" href="#">更多>></a>
+			<h3 class="section_title">年度作品</h3>
+			<p class="f14 mb15 ml5">选择年份：<select><option>2012年度</option></select></p>
+			<ul class="section_imgs clearfix ml10">
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="102" height="80"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+			</ul>
+		</div>
+		<div class="section">
+			<a class="section_more" href="#">更多>></a>
+			<h3 class="section_title">视频窗口</h3>
+			<ul class="section_imgs clearfix ml10">
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="128" height="96"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="128" height="96"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="128" height="96"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="128" height="96"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+				<li>
+					<a href="#"><img src="/img/blank.jpg" width="128" height="96"/></a>
+					<p class="mt5">下岱山建醮盛大庆</p>
+					<p class="mt5">朱晓峰</p>
+				</li>
+			</ul>
+		</div>
 	</div>
+	<div class="rightside_bottom"></div>
 </div>
 <? include '../common/footer.php';?>
