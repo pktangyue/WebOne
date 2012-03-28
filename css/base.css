@@ -137,6 +137,13 @@ a.content:hover{text-decoration:none;color:#333;}
 .imgs li{text-align:center;float:left;line-height:150%;margin:0 35px 20px;}
 .imgs img{margin-bottom:5px;}
 .imgs a,.imgs a:hover{color:#333;font-size:16px;font-weight:bold;}
+/* article */
+.article{text-align:center;padding:40px 30px 20px;border-bottom:1px #c7cfb5 dashed;}
+.article_title{font-weight:bold;margin-bottom:20px;}
+.article_subtitle{font-size:12px;margin-bottom:25px;}
+.article p{text-align:left;line-height:200%;font-size:14px;text-indent:28px;padding:16px 0;}
+.article_prev{margin-left:30px;float:left;}
+.article_next{margin-right:30px;float:right;}
 /* pager */
 .pager{text-align:center;}
 .pager a,
@@ -152,4 +159,6 @@ a.content:hover{text-decoration:none;color:#333;}
 .hot_list img{border-color:#6ecfcf;padding:0;float:left;}
 .hot_list p{margin-left:84px;line-height:16px;}
 .hot_bottom{background:url(/img/layout/hot_bg.png) no-repeat 0 -25px;width:236px;height:12px;}
+/* btn */
+.support_btn{background:url(/img/btn/support.png) no-repeat;padding-left:30px;width:42px;height:29px;line-height:29px;display:inline-block;font-size:14px;}
 
