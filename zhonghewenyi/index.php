@@ -1,16 +1,5 @@
 <? include '../common/header.php';?>
-<div class="leftside">
-	<h1 class="c_green yahei ml5 f16">综合文艺</h1>
-	<h6 class="c_green yahei ml5 mt5 f8">ZHONG HE WEN YI</h6>
-	<ul class="leftside_nav mt15">
-		<li><span class="dot">•</span><a href="#">主题活动</a></li>
-		<li><span class="dot">•</span><a href="#">季度影赛</a></li>
-		<li><span class="dot">•</span><a href="#">书画天地</a></li>
-		<li><span class="dot">•</span><a href="#">个人展室</a></li>
-		<li><span class="dot">•</span><a href="#">年度作品</a></li>
-		<li><span class="dot">•</span><a href="#">视频窗口</a></li>
-	</ul>
-</div>
+<? include 'leftside.php';?>
 <div class="rightside">
 	<h1 class="rightside_title">【综合文艺】</h1>
 	<div class="rightside_content">
@@ -22,7 +11,7 @@
 					<img src="/img/blank.jpg" width="140" height="110"/>
 					<p class="fwb tc mt10">寻找身边的活雷锋 </p>
 				</div>
-				<ul class="section_list">
+				<ul class="section_short_list">
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>

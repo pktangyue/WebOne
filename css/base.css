@@ -111,9 +111,9 @@ a.content:hover{text-decoration:none;color:#333;}
 .leftside_nav li{border-bottom:1px #c8de9b solid;padding-left:5px;height:35px;line-height:35px;}
 .leftside_nav .dot{margin-right:6px}
 /* rightside */
-.rightside{float:right;width:787px;overflow:hidden;}
+.rightside{float:right;width:787px;}
 .rightside_title{height:48px;line-height:48px;}
-.rightside_content{padding:0 30px 10px 24px;width:731px;padding-top:25px;background:#fff;border-left:1px #eef3e5 solid;border-right:1px #eef3e5 solid;}
+.rightside_content{min-height:530px;_height:530px;padding:25px 30px 10px 24px;width:731px;background:#fff;border-left:1px #eef3e5 solid;border-right:1px #eef3e5 solid;}
 .rightside_bottom{width:787px;height:10px;overflow:hidden;background:url(/img/body_bottom.png) no-repeat;}
 /* section */
 .section{margin-bottom:25px;}
@@ -121,12 +121,23 @@ a.content:hover{text-decoration:none;color:#333;}
 .section_p4 img{padding:4px;}
 .section_more{float:right;margin-top:7px;}
 .section_title{background:url(/img/layout/section_title_bg.png) no-repeat;height:28px;line-height:24px;padding-left:25px;font-weight:bold;color:#5D8803;margin-bottom:20px;}
-.section_list{padding-left:10px;width:352px;float:right;border-left:1px #999 dashed;height:144px;margin-left:10px;overflow:hidden;}
-.section_list li{height:20px;line-height:20px;padding:0 0 10px;}
-.section_list li a{margin-left:5px;}
+.section_short_list{padding-left:10px;width:352px;float:right;border-left:1px #999 dashed;height:144px;margin-left:10px;overflow:hidden;}
+.section_short_list li{height:20px;line-height:20px;padding:0 0 10px;}
+.section_short_list li a{margin-left:5px;}
 .section_desc{line-height:200%;margin-left:156px;}
 .section_imgs{}
 .section_imgs li{text-align:center;float:left;margin:0 10px 5px 0;}
+/* list */
+.list_nav{border-bottom:1px #c7cfb5 dashed;padding:0 5px 10px;}
+.list{font-size:14px;padding:28px 5px;}
+.list li{margin-bottom:18px;}
+.list_date{float:right;color:#999;}
+/* pager */
+.pager{text-align:center;}
+.pager a,
+.pager span{display:inline-block;height:20px;line-height:20px;padding:0 5px;border:1px #a7a7a6 solid;color:#999;}
+.pager span{color:#5D8803;font-weight:bold;}
+.pager a:hover{color:#333;}
 /* hot */
 .hot{float:right;width:236px;margin:2px 0 0;padding:0 6px 7px;background:#eff7da;}
 .hot_title{height:25px;line-height:25px;text-align:center;color:#fff;background:url(/img/layout/hot_bg.png) no-repeat;margin-top:-2px;}
