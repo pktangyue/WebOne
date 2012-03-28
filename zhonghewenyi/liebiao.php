@@ -1,7 +1,7 @@
 <? include '../common/header.php';?>
 <? include 'leftside.php';?>
-<div class="rightside">
-	<h1 class="rightside_title">【综合文艺】</h1>
+<div class="rightside zhwy">
+	<h1 class="rightside_title"></h1>
 	<div class="rightside_content">
 		<div class="section">
 			<h3 class="section_title">主题活动</h3>

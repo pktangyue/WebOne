@@ -1,4 +1,5 @@
-<div class="leftside">
+<div class="leftside zhwy">
+	<div class="leftside_pic"></div>
 	<h1 class="c_green yahei ml5 f16">综合文艺</h1>
 	<h6 class="c_green yahei ml5 mt5 f8">ZHONG HE WEN YI</h6>
 	<ul class="leftside_nav mt15">

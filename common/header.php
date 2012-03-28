@@ -27,8 +27,8 @@
 		</div>
 		<div class="container clearfix">
 			<ul class="nav yahei clearfix">
-				<li><a href="#">综合文艺</a></li>
-				<li><a href="#">沙枣文苑</a></li>
+				<li class="first"><a href="#">综合文艺</a></li>
+				<li class="on"><a href="#">沙枣文苑</a></li>
 				<li><a href="#">我爱我家</a></li>
 				<li><a href="#">民情民意</a></li>
 				<li><a href="#">短信传情</a></li>
