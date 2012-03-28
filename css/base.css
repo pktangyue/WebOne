@@ -132,6 +132,11 @@ a.content:hover{text-decoration:none;color:#333;}
 .list{font-size:14px;padding:28px 5px;}
 .list li{margin-bottom:18px;}
 .list_date{float:right;color:#999;}
+/* imgs */
+.imgs{padding:35px 0;}
+.imgs li{text-align:center;float:left;line-height:150%;margin:0 35px 20px;}
+.imgs img{margin-bottom:5px;}
+.imgs a,.imgs a:hover{color:#333;font-size:16px;font-weight:bold;}
 /* pager */
 .pager{text-align:center;}
 .pager a,
