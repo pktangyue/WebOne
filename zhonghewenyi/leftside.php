@@ -7,7 +7,7 @@
 		<li><span class="dot">•</span><a href="#">书画天地</a></li>
 		<li><span class="dot">•</span><a href="#">个人展室</a></li>
 		<li><span class="dot">•</span><a href="#">年度作品</a></li>
-		<li><span class="dot">•</span><a href="#">视频窗口</a></li>
+		<li class="last"><span class="dot">•</span><a href="#">视频窗口</a></li>
 	</ul>
 	<div class="leftside_pic"></div>
 </div>

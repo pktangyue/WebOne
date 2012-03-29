@@ -11,7 +11,7 @@
 					<img src="/img/blank.jpg" width="140" height="110"/>
 					<p class="fwb tc mt10">寻找身边的活雷锋 </p>
 				</div>
-				<ul class="section_short_list">
+				<ul class="section_short_list ml10 pl10 right" style="border-left:1px #999 dashed;width:352px;">
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>

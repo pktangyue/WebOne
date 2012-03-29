@@ -16,5 +16,8 @@
 		<fieldset>
 			<p><a href="/aqws/index.php">安全卫士</a></p>
 		</fieldset>
+		<fieldset>
+			<p><a href="/dxcq/index.php">短信传情</a></p>
+		</fieldset>
 	</body>
 </html>

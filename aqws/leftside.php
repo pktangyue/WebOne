@@ -5,7 +5,7 @@
 		<li><span class="dot">•</span><a href="#">小发明</a></li>
 		<li><span class="dot">•</span><a href="#">QC成果展示</a></li>
 		<li><span class="dot">•</span><a href="#">安全招标</a></li>
-		<li><span class="dot">•</span><a href="#">我为安全提个醒</a></li>
+		<li class="last"><span class="dot">•</span><a href="#">我为安全提个醒</a></li>
 	</ul>
 	<div class="leftside_pic"></div>
 </div>
