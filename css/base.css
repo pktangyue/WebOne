@@ -168,3 +168,12 @@ a.content:hover{text-decoration:none;color:#333;}
 /* zhwy */
 .zhwy .rightside_title{background:url(/img/zhwy/title.png) no-repeat 42px;}
 .zhwy .leftside_pic{background:url(/img/zhwy/left.png) no-repeat;}
+/* welcome */
+.welcome{background:#fff url(/img/welcome/bg.png) repeat-x;}
+.welcome1{width:1100px;height:178px;background:url(/img/welcome/welcome1.jpg) no-repeat;overflow:hidden;position:relative;margin-top:-28px;z-index:-5;}
+.welcome2{width:1100px;height:177px;background:url(/img/welcome/welcome2.jpg) no-repeat;overflow:hidden;}
+.welcome3{width:1100px;height:178px;background:url(/img/welcome/welcome3.jpg) no-repeat;overflow:hidden;}
+.welcome4{width:1010px;height:64px;background:url(/img/welcome/welcome4.jpg) no-repeat;overflow:hidden;padding:113px 0 0 90px;}
+.welcome4 p{line-height:150%;}
+.welcome_enter{width:78px;height:22px;background:url(/img/welcome/enter.png) no-repeat;display:block;margin:66px 0 0 755px;line-height:22px;padding-left:16px;}
+.welcome_flash{width:750px;height:295px;background:url(/img/welcome/flash.png) no-repeat;position:absolute;top:282px;left:350px;}
