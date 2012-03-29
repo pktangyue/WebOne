@@ -113,7 +113,7 @@ a.content:hover{text-decoration:none;color:#333;}
 .leftside_nav{width:156px;z-index:5;position:relative;}
 .leftside_nav li{border-bottom:1px #c8de9b solid;padding-left:5px;height:35px;line-height:35px;}
 .leftside_nav .dot{margin-right:6px}
-.leftside_pic{width:243px;height:400px;position:absolute;left:0;top:470px;z-index:1;}
+.leftside_pic{width:243px;position:relative;left:-55px;z-index:1;}
 /* rightside */
 .rightside{float:right;width:787px;}
 .rightside_title{height:48px;line-height:48px;}
@@ -131,25 +131,29 @@ a.content:hover{text-decoration:none;color:#333;}
 .section_desc{line-height:200%;margin-left:156px;}
 .section_imgs{}
 .section_imgs li{text-align:center;float:left;margin:0 10px 5px 0;}
+/* section twopart */
+.section .twopart{width:355px;}
+/* section threepart */
+.section .threepart{width:242px;float:left;}
 /* list */
-.list_nav{border-bottom:1px #c7cfb5 dashed;padding:0 5px 10px;}
-.list{font-size:14px;padding:28px 5px;}
-.list li{margin-bottom:18px;}
-.list_date{float:right;color:#999;}
+.list_nav{border-bottom:1px #c7cfb5 dashed;padding:0 5px 10px;margin-bottom:28px;}
+.list{padding:0 5px;}
+.list li{padding:8px 0;}
+.list_date{float:right;color:#ccc;}
 /* imgs */
-.imgs{padding:35px 0;}
+.imgs{padding-top:35px;}
 .imgs li{text-align:center;float:left;line-height:150%;margin:0 35px 20px;}
 .imgs img{margin-bottom:5px;}
 .imgs a,.imgs a:hover{color:#333;font-size:16px;font-weight:bold;}
 /* article */
-.article{text-align:center;padding:40px 30px 20px;border-bottom:1px #c7cfb5 dashed;}
+.article{text-align:center;padding:12px 30px 20px;border-bottom:1px #c7cfb5 dashed;}
 .article_title{font-weight:bold;margin-bottom:20px;}
 .article_subtitle{font-size:12px;margin-bottom:25px;}
 .article p{text-align:left;line-height:200%;font-size:14px;text-indent:28px;padding:16px 0;}
 .article_prev{margin-left:30px;float:left;}
 .article_next{margin-right:30px;float:right;}
 /* pager */
-.pager{text-align:center;}
+.pager{text-align:center;padding-top:30px;}
 .pager a,
 .pager span{display:inline-block;height:20px;line-height:20px;padding:0 5px;border:1px #a7a7a6 solid;color:#999;}
 .pager span{color:#5D8803;font-weight:bold;}
@@ -165,9 +169,13 @@ a.content:hover{text-decoration:none;color:#333;}
 .hot_bottom{background:url(/img/layout/hot_bg.png) no-repeat 0 -25px;width:236px;height:12px;}
 /* btn */
 .support_btn{background:url(/img/btn/support.png) no-repeat;padding-left:30px;width:42px;height:29px;line-height:29px;display:inline-block;font-size:14px;}
+.btn{width:87px;height:24px;line-height:24px;background:url(/img/btn/btn.png) no-repeat;text-align:center;display:block;}
 /* zhwy */
 .zhwy .rightside_title{background:url(/img/zhwy/title.png) no-repeat 42px;}
-.zhwy .leftside_pic{background:url(/img/zhwy/left.png) no-repeat;}
+.zhwy .leftside_pic{background:url(/img/zhwy/left.png) no-repeat;top:-65px;height:400px;}
+/* aqws */
+.aqws .rightside_title{background:url(/img/aqws/title.png) no-repeat 42px;}
+.aqws .leftside_pic{background:url(/img/aqws/left.png) no-repeat;height:295px;}
 /* welcome */
 .welcome{background:#fff url(/img/welcome/bg.png) repeat-x;}
 .welcome1{width:1100px;height:178px;background:url(/img/welcome/welcome1.jpg) no-repeat;overflow:hidden;position:relative;margin-top:-28px;z-index:-5;}
@@ -177,3 +185,14 @@ a.content:hover{text-decoration:none;color:#333;}
 .welcome4 p{line-height:150%;}
 .welcome_enter{width:78px;height:22px;background:url(/img/welcome/enter.png) no-repeat;display:block;margin:66px 0 0 755px;line-height:22px;padding-left:16px;}
 .welcome_flash{width:750px;height:295px;background:url(/img/welcome/flash.png) no-repeat;position:absolute;top:282px;left:350px;}
+/* invention */
+.invention{color:#999;}
+.invention_icon{width:57px;height:57px;background:url(/img/aqws/icon.png) no-repeat;position:absolute;display:block;top:-3px;left:-3px;}
+.invention li{width:320px;height:210px;padding:15px;border:1px #e5e5e5 solid;float:left;margin:0 22px 22px 0;position:relative;}
+.invention p{line-height:150%;text-align:center;}
+.invention_desc{margin-top:15px;}
+/* remind */
+.remind{width:244px;float:right;}
+.remind_head{height:50px;line-height:50px;background:url(/img/aqws/remind_bg.png) no-repeat;font-weight:bold;text-align:center;}
+.remind_content{border:1px #e2e7c0 solid;border-bottom:0 none;background:#f6faea;padding-top:3px;}
+.remind_foot{height:20px;background:url(/img/aqws/remind_bg.png) no-repeat 0 -50px;}

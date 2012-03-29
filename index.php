@@ -13,5 +13,8 @@
 		<fieldset>
 			<p><a href="/welcome/index.php">01欢迎页面</a></p>
 		</fieldset>
+		<fieldset>
+			<p><a href="/aqws/index.php">安全卫士</a></p>
+		</fieldset>
 	</body>
 </html>
