@@ -1,6 +1,6 @@
 <? include '../common/header.php';?>
 <? include 'leftside.php';?>
-<div class="rightside aqws">
+<div class="rightside dxcq">
 	<h1 class="rightside_title"></h1>
 	<div class="rightside_content">
 		<div class="message left">

@@ -19,5 +19,8 @@
 		<fieldset>
 			<p><a href="/dxcq/index.php">短信传情</a></p>
 		</fieldset>
+		<fieldset>
+			<p><a href="/szl/index.php">沙枣林</a></p>
+		</fieldset>
 	</body>
 </html>

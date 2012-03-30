@@ -173,7 +173,7 @@ a.content:hover{text-decoration:none;color:#333;}
 .hot_bottom{background:url(/img/layout/hot_bg.png) no-repeat 0 -25px;width:236px;height:12px;}
 /* btn */
 .support_btn{background:url(/img/btn/support.png) no-repeat;padding-left:30px;width:42px;height:29px;line-height:29px;display:inline-block;font-size:14px;}
-.btn{width:87px;height:24px;line-height:24px;background:url(/img/btn/btn.png) no-repeat;text-align:center;display:block;}
+.btn{width:87px;height:24px;line-height:24px;background:url(/img/btn/btn.png) no-repeat;text-align:center;display:inline-block;}
 /* zhwy */
 .zhwy .rightside_title{background:url(/img/zhwy/title.png) no-repeat 42px;}
 .zhwy .leftside_pic{background:url(/img/zhwy/left.png) no-repeat;top:-65px;height:400px;}
@@ -181,9 +181,14 @@ a.content:hover{text-decoration:none;color:#333;}
 .aqws .rightside_title{background:url(/img/aqws/title.png) no-repeat 42px;}
 .aqws .leftside_pic{background:url(/img/aqws/left.png) no-repeat;height:295px;}
 /* dxcq */
-.aqws .rightside_title{background:url(/img/dxcq/title.png) no-repeat 42px;}
+.dxcq .rightside_title{background:url(/img/dxcq/title.png) no-repeat 42px;}
 .dxcq .leftside_nav li{float:left;width:73px;}
 .dxcq .leftside_pic{background:url(/img/dxcq/left.png) no-repeat;height:315px;top:-40px;}
+/* szl */
+.szl .leftside_pic{background:url(/img/szl/left.png) no-repeat;height:250px;top:-60px;}
+.szl .rightside_title{background:url(/img/szl/title.png) no-repeat 42px;}
+.szl .rightside_content{width:745px;padding:25px 20px 10px 20px;}
+.szl .btn{margin-right:15px;}
 /* welcome */
 .welcome{background:#fff url(/img/welcome/bg.png) repeat-x;}
 .welcome1{width:1100px;height:178px;background:url(/img/welcome/welcome1.jpg) no-repeat;overflow:hidden;position:relative;margin-top:-28px;z-index:-5;}
@@ -215,3 +220,24 @@ a.content:hover{text-decoration:none;color:#333;}
 .couplet_lb,
 .couplet_rb{width:50px;height:50px;background:url(/img/dxcq/couplet_bg.png) no-repeat 0 -57px;;position:absolute;bottom:0;left:0;}
 .couplet_rb{left:auto;right:0;background-position:right -57px;}
+/* box */
+.box{position:relative;padding:12px;border:1px #d3e0c1 solid;background:#fff;}
+.box p{line-height:20px;}
+.box_lt,.box_rt,.box_lb,.box_rb{width:11px;height:11px;overflow:hidden;background:url(/img/layout/box_bg.png) no-repeat;position:absolute;display:block;}
+.box_lt{left:-1px;top:-1px;}
+.box_rt{right:-1px;top:-1px;background-position:-11px 0;}
+.box_lb{left:-1px;bottom:-1px;background-position:0 -11px;}
+.box_rb{right:-1px;bottom:-1px;background-position:-11px -11px;}
+/* honor */
+.honor{background:#eff7e0 url(/img/szl/honor_bg.png) no-repeat;padding:0 4px 8px;position:relative;}
+.honor h1{height:45px;text-indent:-1000px;margin-bottom:35px;}
+.honor .btn{font-size:14px;}
+.honor_left,.honor_right{width:4px;height:70%;position:absolute;bottom:0;background:#fff;}
+.honor_left{left:0;}
+.honor_right{right:0;}
+.person_honor h1{background:url(/img/szl/person.png) no-repeat center center;}
+.group_honor h1{background:url(/img/szl/group.png) no-repeat center center;}
+.person_honor .box{width:212px;float:left;margin:0 0 15px 5px;}
+.group_honor .box{margin:10px 10px 0;}
+.group_honor li{margin-right:7px;}
+
