@@ -30,5 +30,8 @@
 		<fieldset>
 			<p><a href="/wawj/index.php">我爱我家</a></p>
 		</fieldset>
+		<fieldset>
+			<p><a href="/szwy/index.php">07沙枣文苑</a></p>
+		</fieldset>
 	</body>
 </html>

@@ -272,3 +272,19 @@ a.content:hover{text-decoration:none;color:#333;}
 .jindianzi_1 em{font-size:50px;margin-left:0px;font-weight:bold;}
 .jindianzi_2 em{font-size:30px;}
 .jindianzi_3 em{font-size:24px;}
+/* literature */
+.literature{background:url(/img/szwy/literature_bg.png) no-repeat left bottom;}
+.literature_kind a{width:79px;height:21px;line-height:21px;text-align:center;display:inline-block;margin-right:10px;}
+.literature_kind a.on,.literature_kind a:hover{background:url(/img/szwy/btn.png) no-repeat;text-decoration:none;}
+/* books */
+.books td{padding:6px 0;}
+/* recommend */
+.recommend{padding:12px 0 18px;background:#f9faf4;border:1px #e8ecd5 solid;}
+.recommend ul{margin-left:105px;}
+.recommend li{margin-right:15px;float:left;}
+/* periodical */
+.periodical{padding:12px 35px 30px;}
+.periodical h2{background:url(/img/szwy/periodical_title_bg.png) no-repeat left bottom;height:30px;line-height:30px;padding-left:20px;margin-bottom:20px;}
+.periodical_list li{height:24px;line-height:24px;}
+.periodical_imgs li{float:left;margin:0 22px 15px 0;}
+.periodical_imgs li.last{margin-right:0px;}
