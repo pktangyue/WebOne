@@ -22,5 +22,8 @@
 		<fieldset>
 			<p><a href="/szl/index.php">沙枣林</a></p>
 		</fieldset>
+		<fieldset>
+			<p><a href="/mqmy/index.php">民情民意</a></p>
+		</fieldset>
 	</body>
 </html>

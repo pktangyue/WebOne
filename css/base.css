@@ -114,9 +114,11 @@ a.content:hover{text-decoration:none;color:#333;}
 /* leftside */
 .leftside{padding:158px 0 0 55px;width:156px;float:left;}
 .leftside_nav{width:156px;z-index:5;position:relative;}
-.leftside_nav li{border-bottom:1px #c8de9b solid;padding-left:5px;height:35px;line-height:35px;}
+.leftside_nav li{border-bottom:1px #c8de9b solid;padding-left:5px;line-height:35px;}
 .leftside_nav .last{border-bottom:0 none;}
 .leftside_nav .dot{margin-right:6px}
+.leftside_sub_nav{margin-left:40px;}
+.leftside_sub_nav li{border-bottom:0 none;height:30px;line-height:30px;}
 .leftside_pic{width:243px;position:relative;left:-55px;z-index:1;}
 /* rightside */
 .rightside{float:right;width:787px;}
@@ -174,6 +176,8 @@ a.content:hover{text-decoration:none;color:#333;}
 /* btn */
 .support_btn{background:url(/img/btn/support.png) no-repeat;padding-left:30px;width:42px;height:29px;line-height:29px;display:inline-block;font-size:14px;}
 .btn{width:87px;height:24px;line-height:24px;background:url(/img/btn/btn.png) no-repeat;text-align:center;display:inline-block;}
+.btn_on{color:#ff6600;}
+.btn2{width:65px;height:25px;line-height:25px;background:url(/img/btn/btn2.png) no-repeat;text-align:center;display:inline-block;}
 /* zhwy */
 .zhwy .rightside_title{background:url(/img/zhwy/title.png) no-repeat 42px;}
 .zhwy .leftside_pic{background:url(/img/zhwy/left.png) no-repeat;top:-65px;height:400px;}
@@ -189,6 +193,9 @@ a.content:hover{text-decoration:none;color:#333;}
 .szl .rightside_title{background:url(/img/szl/title.png) no-repeat 42px;}
 .szl .rightside_content{width:745px;padding:25px 20px 10px 20px;}
 .szl .btn{margin-right:15px;}
+/* mqmy */
+.mqmy .leftside_pic{background:url(/img/mqmy/left.png) no-repeat;height:330px;top:-50px}
+.mqmy .rightside_title{background:url(/img/mqmy/title.png) no-repeat 42px;}
 /* welcome */
 .welcome{background:#fff url(/img/welcome/bg.png) repeat-x;}
 .welcome1{width:1100px;height:178px;background:url(/img/welcome/welcome1.jpg) no-repeat;overflow:hidden;position:relative;margin-top:-28px;z-index:-5;}
@@ -240,4 +247,17 @@ a.content:hover{text-decoration:none;color:#333;}
 .person_honor .box{width:212px;float:left;margin:0 0 15px 5px;}
 .group_honor .box{margin:10px 10px 0;}
 .group_honor li{margin-right:7px;}
-
+/* zhitongche */
+.zhitongche{border:1px #f3f7ea solid;text-align:center;width:100%;}
+.zhitongche thead{height:45px;line-height:45px;background:#fafdef;}
+.zhitongche tbody{height:40px;line-height:40px;background:#fdfef9;}
+/* jindianzi */
+.jindianzi em{color:#b3bf94;font-family:Arial;float:left;width:35px;margin:0 10px 0 50px;text-align:center;font-size:16px;}
+.jindianzi li{height:20px;line-height:20px;}
+.jindianzi .jindianzi_1{height:40px;line-height:40px;}
+.jindianzi .jindianzi_2{height:30px;line-height:30px;}
+.jindianzi .jindianzi_3{height:25px;line-height:25px;}
+.jindianzi_1 .jindianzi_top{font-size:30px;font-family:"Microsoft YaHei";color:#d3dac2;margin-top:6px;float:left;width:50px;}
+.jindianzi_1 em{font-size:50px;margin-left:0px;font-weight:bold;}
+.jindianzi_2 em{font-size:30px;}
+.jindianzi_3 em{font-size:24px;}
