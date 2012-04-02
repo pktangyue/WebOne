@@ -118,7 +118,8 @@ a.content:hover{text-decoration:none;color:#333;}
 .leftside_nav .last{border-bottom:0 none;}
 .leftside_nav .dot{margin-right:6px}
 .leftside_sub_nav{margin-left:40px;}
-.leftside_sub_nav li{border-bottom:0 none;height:30px;line-height:30px;}
+.leftside_sub_nav li{border-bottom:0 none;line-height:30px;}
+.leftside_sub_nav li ul{margin-left:15px;}
 .leftside_pic{width:243px;position:relative;left:-55px;z-index:1;}
 /* rightside */
 .rightside{float:right;width:787px;}
@@ -137,6 +138,8 @@ a.content:hover{text-decoration:none;color:#333;}
 .section_desc{line-height:200%;margin-left:156px;}
 .section_imgs{}
 .section_imgs li{text-align:center;float:left;margin:0 10px 5px 0;}
+.section_two_list li{height:24px;line-height:24px;width:177px;float:left;}
+.section_two_list li a{margin-left:5px;}
 /* section twopart */
 .section .twopart{width:355px;}
 /* section threepart */
@@ -196,6 +199,9 @@ a.content:hover{text-decoration:none;color:#333;}
 /* mqmy */
 .mqmy .leftside_pic{background:url(/img/mqmy/left.png) no-repeat;height:330px;top:-50px}
 .mqmy .rightside_title{background:url(/img/mqmy/title.png) no-repeat 42px;}
+/* wawj */
+.wawj .leftside_pic{background:url(/img/wawj/left.png) no-repeat;height:300px;top:-10px}
+.wawj .rightside_title{background:url(/img/wawj/title.png) no-repeat 42px;}
 /* welcome */
 .welcome{background:#fff url(/img/welcome/bg.png) repeat-x;}
 .welcome1{width:1100px;height:178px;background:url(/img/welcome/welcome1.jpg) no-repeat;overflow:hidden;position:relative;margin-top:-28px;z-index:-5;}

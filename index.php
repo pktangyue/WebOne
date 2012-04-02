@@ -27,5 +27,8 @@
 			<p><a href="/mqmy/neirong.php">民情民意—内容页面</a></p>
 			<p><a href="/mqmy/liebiao.php">民情民意—直通车列表</a></p>
 		</fieldset>
+		<fieldset>
+			<p><a href="/wawj/index.php">我爱我家</a></p>
+		</fieldset>
 	</body>
 </html>
