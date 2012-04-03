@@ -66,26 +66,26 @@
 			<h3 class="section_title">QC成果展示</h3>
 			<div class="left twopart">
 				<ul class="list">
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
 				</ul>
 			</div>
 			<div class="right twopart">
 				<ul class="list">
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a><span class="list_date">12-03-08</span></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a href="#" class="content">基于共享心智模型的团队学习过程模型构建</a></li>
 				</ul>
 			</div>
 		</div>

@@ -77,10 +77,10 @@
 			</ul>
 			</div>
 		</div>
-		<div class="section left">
+		<div class="section left twopart">
 			<a class="section_more" href="#">更多>></a>
-			<h3 class="section_title">生活空间</h3>
-			<div class="twopart">
+			<h3 class="section_title section_title_short">生活空间</h3>
+			<div class="">
 				<div class="lh200 clearfix">
 					<img src="/img/blank.jpg" width="102" height="102" class="left nopadding mr20"/>
 					<p class="f14 mb5 "><a href="#">家居装修如何设计窗帘</a></p>
@@ -102,10 +102,10 @@
 				</ul>
 			</div>
 		</div>
-		<div class="section right">
+		<div class="section right twopart">
 			<a class="section_more" href="#">更多>></a>
-			<h3 class="section_title">心灵手巧</h3>
-			<div class="twopart">
+			<h3 class="section_title section_title_short">心灵手巧</h3>
+			<div class="">
 				<ul class="section_imgs">
 					<li>
 						<a href="#"><img src="/img/blank.jpg" width="102" height="80"></a>

@@ -5,9 +5,9 @@
 		<li>
 			<span class="dot">•</span><a href="#">民情民意直通车</a>
 		</li>
-		<li>
+		<li class="clearfix">
 			<ul class="leftside_sub_nav">
-				<li><span class="mr5">&gt;</span><a href="#">革新建议直通车</a></li>
+				<li><span class="mr5 left">&gt;</span><a href="#">革新建议直通车</a></li>
 				<li><span class="mr5">&gt;</span><a href="#">问题反映直通车</a></li>
 				<li><span class="mr5">&gt;</span><a href="#">考核申诉直通车</a></li>
 				<li><span class="mr5">&gt;</span><a href="#">困难反映直通车</a></li>

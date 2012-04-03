@@ -120,7 +120,7 @@
 		</div>
 		<div class="honor group_honor clearfix mt5">
 			<h1>集体荣誉</h1>
-			<div class="box">
+			<div class="box left">
 				<ul class="section_imgs clearfix">
 					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc">综合治理先进集体</p></li>
 					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc">综合治理先进集体</p></li>
@@ -134,14 +134,15 @@
 				<span class="box_lb"></span>
 				<span class="box_rb"></span>
 			</div>
+			<div class="clear"></div>
 			<div class="box mt10">
 				<ul class="list f14">
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">[12-03-08]</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">[12-03-08]</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">[12-03-08]</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">[12-03-08]</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">[12-03-08]</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">[12-03-08]</span></li>
+					<li class="clearfix"><span class="list_date">[12-03-08]</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="clearfix"><span class="list_date">[12-03-08]</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="clearfix"><span class="list_date">[12-03-08]</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="clearfix"><span class="list_date">[12-03-08]</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="clearfix"><span class="list_date">[12-03-08]</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="clearfix"><span class="list_date">[12-03-08]</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
 				</ul>
 				<p class="tc pt10">
 					<a href="#" class="content">首页</a>
@@ -151,6 +152,8 @@
 					<a href="#" class="content">尾页</a>
 				</p>
 			</div>
+			<div class="honor_left"></div>
+			<div class="honor_right"></div>
 		</div>
 		<div class="section mt20 clearfix">
 			<a class="section_more" href="#">更多>></a>
@@ -170,15 +173,15 @@
 			</div>
 			<div class="right" style="width:365px;">
 				<ul class="section_imgs clearfix">
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
-					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
+					<li><img src="/img/blank.jpg" width="102" height="80"/><p class="tc mb10 mt5">综合治理先进集体</p></li>
 				</ul>
 			</div>
 		</div>

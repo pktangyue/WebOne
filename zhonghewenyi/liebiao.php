@@ -7,24 +7,24 @@
 			<h3 class="section_title">主题活动</h3>
 			<p class="list_nav"><a href="#">综合文艺</a><span class="c_green ml10 mr10">&gt;</span><a href="#">主题活动列表 </a></p>
 			<ul class="list f14">
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-				<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+				<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
 			</ul>
 			<div class="pager">
 				<a href="#">首页</a>

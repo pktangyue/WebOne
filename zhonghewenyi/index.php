@@ -11,7 +11,7 @@
 					<img src="/img/blank.jpg" width="140" height="110"/>
 					<p class="fwb tc mt10">寻找身边的活雷锋 </p>
 				</div>
-				<ul class="section_short_list ml10 pl10 right" style="border-left:1px #999 dashed;width:352px;">
+				<ul class="section_short_list ml10 pl10 right" style="border-left:1px #999 dashed;width:352px;*display:block;">
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
 					<li>•<a class="content" href="#">唐山市各地文明办主任谈新时期如何弘扬“雷锋精神”</a><span class="c_grey">12-03-08</span></li>
@@ -25,12 +25,12 @@
 		<div class="hot">
 			<h4 class="hot_title">点击排行</h4>
 			<ul class="hot_list">
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
 			</ul>
 			<div class="hot_bottom"></div>
 		</div>
@@ -83,12 +83,12 @@
 		<div class="hot">
 			<h4 class="hot_title">点击排行</h4>
 			<ul class="hot_list">
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
-				<li><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
+				<li class="clearfix"><em class="hot_list_num">1</em><img src="/img/blank.jpg" width="42" height="30"/><div class="left"><p><a href="#">航拍影友</a></p><p class="c_grey">点击：3526</p></div></li>
 			</ul>
 			<div class="hot_bottom"></div>
 		</div>

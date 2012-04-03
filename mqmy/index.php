@@ -212,16 +212,16 @@
 			</div>
 			<div class="left" style="width:615px;">
 				<ul class="list">
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><span class="list_date">12-03-08</span>•&nbsp;<a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
 				</ul>
 			</div>
 		</div>
@@ -233,16 +233,16 @@
 			</div>
 			<div class="left" style="width:615px;">
 				<ul class="list jindianzi">
-					<li class="jindianzi_1"><span class="jindianzi_top">top</span><em>1</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li class="jindianzi_2"><em>2</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li class="jindianzi_3"><em>3</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>4</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>5</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>6</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>7</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>8</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>9</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
-					<li><em>10</em><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a><span class="list_date">12-03-08</span></li>
+					<li class="jindianzi_1"><span class="jindianzi_top">top</span><em>1</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="jindianzi_2"><em>2</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li class="jindianzi_3"><em>3</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>4</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>5</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>6</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>7</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>8</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>9</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
+					<li><em>10</em><span class="list_date">12-03-08</span><a class="content" href="#">南昌南车辆段举办迎新春文艺晚会</a></li>
 				</ul>
 			</div>
 		</div>

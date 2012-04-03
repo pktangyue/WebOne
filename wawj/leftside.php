@@ -3,10 +3,10 @@
 	<h6 class="c_green yahei ml5 mt5 f8">SHA ZAO WEN YUAN</h6>
 	<ul class="leftside_nav mt15">
 		<li><span class="dot">•</span><a href="#">小家建设</a></li>
-		<li>
+		<li class="clearfix">
 			<ul class="leftside_sub_nav">
 				<li><span class="mr5">&gt;</span><a href="#">车间名称</a></li>
-				<li>
+				<li class="clearfix">
 					<ul>
 						<li><a href="#">兰州西站车务段</a></li>
 						<li><a href="#">定西车务段</a></li>
@@ -14,7 +14,7 @@
 					</ul>
 				</li>
 				<li><span class="mr5">&gt;</span><a href="#">车间名称</a></li>
-				<li>
+				<li class="clearfix">
 					<ul>
 						<li><a href="#">兰州西站车务段</a></li>
 						<li><a href="#">定西车务段</a></li>

@@ -9,9 +9,6 @@
 		<div class="header">
 			<div class="header-cont">
 				<form>
-					<span>欢迎浏览沙枣花网络文化艺术平台</span>
-					<span class="ml10">2012年3月11日</span>
-					<span class="ml5">星期日</span>
 					<a href="#" class="right">加入收藏</a>
 					<span class="header_divide"></span>
 					<a href="#" class="right">设为首页</a>
@@ -20,6 +17,9 @@
 					<input class="right header_input" type="password" value="密码"/>
 					<input class="right header_input" type="text" value="用户名"/>
 					<span class="right mr10">管理员登陆:</span>
+					<span>欢迎浏览沙枣花网络文化艺术平台</span>
+					<span class="ml10">2012年3月11日</span>
+					<span class="ml5">星期日</span>
 				</form>
 			</div>
 			<div class="header_cor"></div>
