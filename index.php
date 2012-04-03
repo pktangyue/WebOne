@@ -32,6 +32,7 @@
 		</fieldset>
 		<fieldset>
 			<p><a href="/szwy/index.php">07沙枣文苑</a></p>
+			<p><a href="/szwy/liebiao.php">07沙枣文苑—列表页面</a></p>
 		</fieldset>
 	</body>
 </html>

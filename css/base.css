@@ -181,6 +181,7 @@ a.content:hover{text-decoration:none;color:#333;}
 .btn{width:87px;height:24px;line-height:24px;background:url(/img/btn/btn.png) no-repeat;text-align:center;display:inline-block;}
 .btn_on{color:#ff6600;}
 .btn2{width:65px;height:25px;line-height:25px;background:url(/img/btn/btn2.png) no-repeat;text-align:center;display:inline-block;}
+.btn3{width:52px;height:26px;line-height:26px;background:url(/img/btn/btn3.png) no-repeat;text-align:center;display:inline-block;font-size:14px;}
 /* zhwy */
 .zhwy .rightside_title{background:url(/img/zhwy/title.png) no-repeat 42px;}
 .zhwy .leftside_pic{background:url(/img/zhwy/left.png) no-repeat;top:-65px;height:400px;}
@@ -288,3 +289,13 @@ a.content:hover{text-decoration:none;color:#333;}
 .periodical_list li{height:24px;line-height:24px;}
 .periodical_imgs li{float:left;margin:0 22px 15px 0;}
 .periodical_imgs li.last{margin-right:0px;}
+/* good book */
+.good_book{border-bottom:1px #f4f4f4 solid;padding-bottom:15px;margin-bottom:28px;}
+.good_book img{padding:5px;margin-right:30px;float:left;}
+.good_book h2{line-height:200%;font-weight:bold;margin-bottom:10px;}
+.good_book_main{margin-left:152px;}
+.good_book_desc{color:#999;height:40px;margin-bottom:10px;}
+.good_book_desc li{float:left;width:185px;height:20px;line-height:20px;}
+.good_book p{line-height:200%;}
+.good_book_keyword{margin:15px 0;}
+.good_book_keyword a{margin:0 8px;}
