@@ -10,7 +10,7 @@
 				<img class="noborder" src="/img/mqmy/mqmy1.png">
 				<p class="tc mt15"><a href="#" class="btn2">提交意愿</a></p>
 			</div>
-			<div class="left" style="width:615px;"><br/>
+			<div class="left" style="width:615px;">
 				<p class="list_nav"><span class="c_green ml10 mr10">&gt;</span><a href="#">革新建议直通车</a></p>
 				<p class="tc mb20"><a class="btn btn_on" href="#">未办结</a><a class="btn ml20" href="#">已办结</a></p>
 				<table class="zhitongche">

@@ -1,6 +1,6 @@
 /* reset */
 html {_text-overflow:ellipsis;}
-html,body,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,img,q,dl,dt,dd,ol,ul,li,fieldset,form,legend,table,caption,tfoot,thead,tr,th,td,input{margin:0;	padding:0}
+html,body,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,img,q,dl,dt,dd,ol,ul,li,fieldset,form,legend,table,caption,tfoot,thead,tr,th,td,input,textarea{margin:0;padding:0}
 body{color:#666666;font:12px/1.125 simsun,Arial,Helvetica,sans-serif;background:url(/img/bg.png);}
 h1,h2,h3,h4,h5,h6{font-size:14px;font-weight:normal;}
 input,button,textarea{font-size:100%;color:#666}
@@ -309,3 +309,10 @@ a.content:hover{text-decoration:none;color:#333;}
 .good_book p{line-height:200%;}
 .good_book_keyword{margin:15px 0;}
 .good_book_keyword a{margin:0 8px;}
+/* wish */
+.wish{margin:15px 0 0 10px;}
+.wish th{width:70px;padding:6px 0;vertical-align:top;}
+.wish td{padding:6px 0;}
+.wish textarea{width:100%;height:200px;border:1px #cccccc solid;}
+.wish_text{width:256px;height:22px;line-height:22px;border:1px #cccccc solid;margin-right:5px;}
+.wish_submit{background:url(/img/mqmy/submit.png) no-repeat;width:97px;height:34px;float:right;cursor:pointer;}
