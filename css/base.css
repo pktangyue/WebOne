@@ -121,6 +121,8 @@ a.content:hover{text-decoration:none;color:#333;}
 .leftside_sub_nav li{border-bottom:0 none;line-height:30px;}
 .leftside_sub_nav li ul{padding-left:15px;}
 .leftside_pic{width:243px;position:relative;left:-55px;z-index:1;}
+.plus,.minus{width:11px;height:11px;float:right;display:inline;background:url(/img/layout/plus_minus.png) no-repeat;margin-top:12px;}
+.minus{background-position:0 -11px;}
 /* rightside */
 .rightside{float:right;width:787px;overflow:hidden;}
 .rightside_title{height:48px;line-height:48px;}

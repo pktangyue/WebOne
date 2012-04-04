@@ -2,7 +2,7 @@
 	<h1 class="c_green yahei ml5 f16">沙枣文苑</h1>
 	<h6 class="c_green yahei ml5 mt5 f8">SHA ZAO WEN YUAN</h6>
 	<ul class="leftside_nav mt15">
-		<li><span class="dot">•</span><a href="#">小家建设</a></li>
+		<li><a href="javascript:void(0);" class="plus" onclick="if(this.className==='plus')this.className='minus';else this.className='plus';"></a><span class="dot">•</span><a href="#">小家建设</a></li>
 		<li class="clearfix">
 			<ul class="leftside_sub_nav">
 				<li><span class="mr5">&gt;</span><a href="#">车间名称</a></li>
