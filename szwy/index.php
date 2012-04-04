@@ -169,7 +169,7 @@
 				</ul>
 			</div>
 		</div>
-		<div class="periodical clearfix mt20">
+		<div class="periodical periodical2 clearfix mt20">
 			<div class="left" style="width:315px;">
 				<h2 class="c_green fwb">电子期刊</h2>
 				<ul class="periodical_imgs">

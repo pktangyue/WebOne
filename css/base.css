@@ -112,7 +112,7 @@ a.content:hover{text-decoration:none;color:#333;}
 .nav a{display:block;line-height:55px;height:55px;border-left:1px #b9cf8b solid;}
 .nav .first a{border-left:0px;}
 /* leftside */
-.leftside{padding:158px 0 0 55px;width:156px;float:left;overflow:hidden;display:inline;}
+.leftside{padding:158px 0 0 55px;width:188px;float:left;overflow:hidden;display:inline;}
 .leftside_nav{width:156px;z-index:5;position:relative;}
 .leftside_nav li{border-bottom:1px #c8de9b solid;padding-left:5px;line-height:35px;}
 .leftside_nav .last{border-bottom:0 none;}
@@ -201,6 +201,9 @@ a.content:hover{text-decoration:none;color:#333;}
 /* mqmy */
 .mqmy .leftside_pic{background:url(/img/mqmy/left.png) no-repeat;height:330px;top:-50px;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/wawj/left.png');}
 .mqmy .rightside_title{background:url(/img/mqmy/title.png) no-repeat 42px;}
+/* szwy */
+.szwy .leftside_pic{background:url(/img/szwy/left.png) no-repeat;height:370px;top:-40px;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/szwy/left.png');}
+.szwy .rightside_title{background:url(/img/szwy/title.png) no-repeat 42px;}
 /* wawj */
 .wawj .leftside_pic{background:url(/img/wawj/left.png) no-repeat;height:300px;top:-10px;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/wawj/left.png');}
 .wawj .rightside_title{background:url(/img/wawj/title.png) no-repeat 42px;}
@@ -286,11 +289,12 @@ a.content:hover{text-decoration:none;color:#333;}
 /* books */
 .books td{padding:6px 0;}
 /* recommend */
-.recommend{padding:12px 0 18px;background:#f9faf4;border:1px #e8ecd5 solid;}
+.recommend{padding:18px 0;background:url(/img/szwy/recommend_bg.png) no-repeat;width:723px;height:146px;overflow:hidden;}
 .recommend ul{margin-left:105px;}
 .recommend li{margin-right:15px;float:left;}
 /* periodical */
-.periodical{padding:12px 35px 30px;}
+.periodical{padding:15px 35px 30px;background:url(/img/szwy/periodical_bg.png) no-repeat;width:653px;height:170px;}
+.periodical2{background:url(/img/szwy/periodical2_bg.png) no-repeat;height:364px;}
 .periodical h2{background:url(/img/szwy/periodical_title_bg.png) no-repeat left bottom;height:30px;line-height:30px;padding-left:20px;margin-bottom:20px;}
 .periodical_list li{height:24px;line-height:24px;}
 .periodical_imgs li{float:left;margin:0 22px 15px 0;}
